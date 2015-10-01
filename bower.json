@@ -1,5 +1,5 @@
 {
-  "name": "oregon-hikers",
+  "name": "food-cart-review",
   "dependencies": {
     "ember": "1.13.7",
     "ember-cli-shims": "ember-cli/ember-cli-shims#0.0.3",

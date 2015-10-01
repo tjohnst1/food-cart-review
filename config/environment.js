@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'oregon-hikers',
+    modulePrefix: 'food-cart-review',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

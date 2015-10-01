@@ -1,7 +1,7 @@
 {
-  "name": "oregon-hikers",
+  "name": "food-cart-review",
   "version": "0.0.0",
-  "description": "Small description for oregon-hikers goes here",
+  "description": "Small description for food-cart-review goes here",
   "private": true,
   "directories": {
     "doc": "doc",
